@@ -1,0 +1,42 @@
+#gradient{
+    height: 200px;
+    background-image: linear-gradient(lightblue, orange);
+}
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 6px 6px 6px cornflowerblue;
+}
+.note{
+    font-size: 16px;
+    color: darkblue;
+}
+.label{
+    font-size: 17px; 
+    color:cyan;
+}
+#start{
+    font-size: 20px;
+}
+#object_status, #number_of_objects, #start{
+    font-size: 20px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:royalblue;
+    bottom: 0;
+    width: 100%;
+    background-color:gold;
+    line-height: 4;
+    text-align: center;
+}
+canvas{
+    border:2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px red;
+}
